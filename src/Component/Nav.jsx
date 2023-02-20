@@ -10,7 +10,7 @@ const Nav = () => {
                 <div className="pages scale-up-ver-top">
                     <div className="list">
                         <NavLink to="/"> Home </NavLink>
-                        <NavLink to="/about"> Products </NavLink>
+                        <NavLink to="/product"> Products </NavLink>
                         <NavLink to="/review"> Review </NavLink>
                         <NavLink to="/contact"> Contact</NavLink>
                     </div>
